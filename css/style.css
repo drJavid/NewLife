@@ -1,0 +1,75 @@
+body{
+	margin:0;
+}
+header{
+	width: 100%;
+	background: grey;
+}
+.clear{
+	clear: both;
+}
+.classheader{
+	width: 100%;
+	height: 55px;
+	padding: 10px;
+}
+.classheader #phone{
+	width: 33%;
+	float: left;
+}
+.classheader #matik{
+	width: 33%;
+	margin: 0;
+	float: left;
+	
+}
+.classheader #signin{
+	width: 33%;
+	float: left;
+}
+#matik h1{
+	text-align: center;
+	margin: 0;
+	line-height: 65px;
+}
+#navbar{
+	width: 100%;
+	height: 50px;
+	background: rgb(68, 70, 73);
+	
+
+}
+#navbar ul{
+	margin: 0;
+
+}
+#navbar ul li{
+	float: left;
+	list-style-type: none;
+	margin: 0px 30px;
+/*	text-align: center;
+
+*/
+line-height: 45px;
+}
+#slider{
+	width: 100%;
+	height: 600px;
+	background: rgb(169, 171, 173);
+}
+#slider h1{
+	text-align: center;
+	line-height: 100px;
+	margin: 0;
+
+}
+#welcome{
+	background: rgb(174, 185, 196);
+	width: 100%;
+	height: 100px;
+}
+#welcome h1{
+	text-align: center;
+	line-height: 100px;
+	margin: 0;
+}
